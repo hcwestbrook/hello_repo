@@ -1,3 +1,10 @@
+#these are files that we don't want/need version control on
+#Mircrosoft Office Temporary files
+*~
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
 # History files
 .Rhistory
 .Rapp.history
